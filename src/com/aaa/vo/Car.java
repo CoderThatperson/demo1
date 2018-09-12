@@ -1,5 +1,9 @@
 package com.aaa.vo;
-
+/***
+ * 你好 世界
+ * @author Administrator
+ *
+ */
 public class Car {
 
 	private int oid;
